@@ -8,13 +8,13 @@ const { tuyaApi } = require("tuya-cloud-api");
 let gwmUser = {
   vin: "LGWFFUA59RH935162",
   email: "email@brunodasilva.com",
-  senha: "31100899Aa",
+  senha: "SENHA MYGWM AQUI",
 };
 /// Suas credenciais do Tuya CLoud
 let tuyaUser = {
   client_id: "rxy9x3k9d75rd9xpvna8",
-  secret: "7b0392dea8f0478ba6af878802a014c1",
-  portao: "ebe5bf7be8967a05c7hove",
+  secret: "TUYA SECRET ID",
+  portao: "DEVICE ID DO SEU PORTAO",
 };
 ///////////////////////////////////////////////////////
 
